@@ -1,6 +1,6 @@
 ## Hi, I'm Vincent 👋🏻👨🏻‍💻
 
-### I'm a Student and Freelance (.NET) Software Developer!
+### I'm a Student and independent (.NET) Software Developer!
 
 - 🔭 I’m currently working on my soon-to-launch side project
 - 🌱 I’m currently studying Computing Science, at the University of Groningen
