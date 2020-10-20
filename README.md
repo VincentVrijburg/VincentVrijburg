@@ -2,11 +2,11 @@
 
 ### I'm a Student and independent (.NET) Software Developer!
 
-- 🔭 I’m currently working on my soon-to-launch side project
-- 🌱 I’m currently studying Computing Science, at the University of Groningen
-- 👯 I’m open to collaborate with other software developers
-- 🥅 2020 Goals: Start writing articles about technology, business and education on [Medium][medium]
-- ⚡ Fun fact: I occasionally pluck some strings on my guitar
+- 🔭  I’m currently working on my soon-to-launch side project
+- 🌱  I’m currently studying Computing Science, at the University of Groningen
+- 👯  I’m open to collaborate with other software developers
+- 🥅  2020 Goals: Start writing articles about technology, business and education on [Medium][medium]
+- ⚡  Fun fact: I occasionally pluck some strings on my guitar
 
 ### Connect with me:
 
